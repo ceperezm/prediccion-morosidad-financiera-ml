@@ -1,3 +1,5 @@
 
 .venv/
 data/
+
+pipeline_morosidad.pkl
